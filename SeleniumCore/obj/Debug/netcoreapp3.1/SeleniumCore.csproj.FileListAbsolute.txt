@@ -1,0 +1,13 @@
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\SeleniumCore.exe
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\SeleniumCore.csprojAssemblyReference.cache
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\SeleniumCore.AssemblyInfoInputs.cache
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\SeleniumCore.AssemblyInfo.cs
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\SeleniumCore.RazorTargetAssemblyInfo.cache
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\staticwebassets\SeleniumCore.StaticWebAssets.Manifest.cache
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\staticwebassets\SeleniumCore.StaticWebAssets.xml
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Selenium\SeleniumCore\SeleniumCore\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\Selenium\SeleniumCore\SeleniumCore\obj\Debug\netcoreapp3.1\SeleniumCore.csproj.CopyComplete
